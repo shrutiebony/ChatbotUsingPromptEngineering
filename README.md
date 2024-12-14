@@ -86,20 +86,6 @@ TensorFlow: For building and training the machine learning model.
 
 Matplotlib: For data visualization.
 
-## Project Setup
-
-Clone the repository:
-
-git clone <repository-url>
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the chatbot interface:
-
-python chatbot.py
-
 ## Future Improvements
 
 Incorporate advanced data augmentation techniques.
@@ -108,6 +94,6 @@ Experiment with different neural network architectures.
 
 Enable additional deployment options, such as integrating with mobile applications.
 
-License
+### License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
