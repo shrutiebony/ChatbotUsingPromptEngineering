@@ -1,5 +1,6 @@
 # Building an AI Chatbot using Prompts
 ### Medium Article: https://medium.com/@shrutiebony/building-an-ai-chatbot-and-predicting-house-prices-with-machine-learning-f52e890d5465
+### Yotube Video: https://youtu.be/fX-Wkjac2l8
 ## Introduction
 
 This project involves building an AI chatbot utilizing ChatGPT's code interpreter, Python, TensorFlow, and Matplotlib for visualization. Following the CRISP-DM framework (Cross Industry Standard Process for Data Mining), we will create a machine learning model to automatically predict house prices. This README provides an overview of the six phases of CRISP-DM as applied to this project.
